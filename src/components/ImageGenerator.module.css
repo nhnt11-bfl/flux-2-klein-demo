@@ -73,6 +73,11 @@
   text-decoration: underline;
 }
 
+.separator {
+  margin: 0 0.5rem;
+  color: #a3a3a3;
+}
+
 .settingsRow {
   display: flex;
   align-items: flex-start;

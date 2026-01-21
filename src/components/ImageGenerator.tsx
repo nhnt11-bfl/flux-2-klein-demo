@@ -231,6 +231,10 @@ export default function ImageGenerator() {
               <a href="https://blackforestlabs.ai" target="_blank" rel="noreferrer">
                 Black Forest Labs
               </a>
+              <span className={styles.separator}>·</span>
+              <a href="https://bfl.ai/models/flux-2-klein" target="_blank" rel="noreferrer">
+                Learn more
+              </a>
             </p>
           </div>
           <a
